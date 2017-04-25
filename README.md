@@ -1,0 +1,2 @@
+# QBaseDialog
+Android base dialog
