@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="animationlibrary-0.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4f96cde4ff5b8b68341deb5c486849c4d1826418/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4f96cde4ff5b8b68341deb5c486849c4d1826418/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.qay.qbase/animationlibrary/0.0.2/162e94e5c442e96a48837fe4c08cb69087aca75e/animationlibrary-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
